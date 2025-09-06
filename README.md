@@ -19,6 +19,8 @@
 
 ## Setup `.env` file
 
+https://fullstack-chatapp-e2ib.onrender.com
+
 ```env
 MONGODB_URI=...
 PORT=5001
