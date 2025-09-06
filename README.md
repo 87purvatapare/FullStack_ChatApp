@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 # ✨ Full Stack Realtime Chat App ✨
 
+<<<<<<< HEAD
+=======
+<!-- ![Demo App](/frontend/public/screenshot-for-readme.png) -->
+>>>>>>> febca4f (production time fix: updated index.js and README)
 
 Highlights:
 
