@@ -48,14 +48,12 @@ NODE_ENV=development
 🌐 Deployment
 
 This project is deployed for FREE using Render:
-👉 Live Chat App
+👉  Live Demo
 
 
 👩‍💻 Author
 Purva Tapare
 
-💼 GitHub
-🌐 Live Project 
 
 ⭐ Contributing
 
